@@ -1,8 +1,53 @@
 # Changelog
 
-## 8.2.6 (2024-06-06)
+## 8.3.0 (2024-08-12)
 
-* [bitnami/nats] Release 8.2.6 ([#26990](https://github.com/bitnami/charts/pull/26990))
+* [bitnami/nats] metrics exporter probe configuration ([#28825](https://github.com/bitnami/charts/pull/28825))
+
+## <small>8.2.16 (2024-08-07)</small>
+
+* [bitnami/nats] Release 8.2.16 (#28730) ([86ae138](https://github.com/bitnami/charts/commit/86ae13804ecc635e0ef36df7f71283215cfbfe75)), closes [#28730](https://github.com/bitnami/charts/issues/28730)
+
+## <small>8.2.15 (2024-07-25)</small>
+
+* [bitnami/nats] Release 8.2.15 (#28462) ([7a00340](https://github.com/bitnami/charts/commit/7a0034030f93ff36c01c7ac144ade3db4e8441a6)), closes [#28462](https://github.com/bitnami/charts/issues/28462)
+
+## <small>8.2.14 (2024-07-24)</small>
+
+* [bitnami/nats] Release 8.2.14 (#28328) ([5eda2ca](https://github.com/bitnami/charts/commit/5eda2ca676cefb2226eafb615a5c359ae0d5f623)), closes [#28328](https://github.com/bitnami/charts/issues/28328)
+
+## <small>8.2.13 (2024-07-18)</small>
+
+* [bitnami/nats] Global StorageClass as default value (#28067) ([5656011](https://github.com/bitnami/charts/commit/56560114a9166e7912a8a25ab4c0db7805efd42a)), closes [#28067](https://github.com/bitnami/charts/issues/28067)
+
+## <small>8.2.12 (2024-07-17)</small>
+
+* [bitnami/nats] Release 8.2.12 (#28138) ([e4002d9](https://github.com/bitnami/charts/commit/e4002d94fbe0abe6014f9d7e8984c7f05b05801d)), closes [#28138](https://github.com/bitnami/charts/issues/28138)
+
+## <small>8.2.11 (2024-07-04)</small>
+
+* [bitnami/nats] Release 8.2.11 (#27788) ([aa648ed](https://github.com/bitnami/charts/commit/aa648ed3c9003d697dc74c9bd354101362e3c881)), closes [#27788](https://github.com/bitnami/charts/issues/27788)
+
+## <small>8.2.10 (2024-07-03)</small>
+
+* [bitnami/nats] Release 8.2.10 (#27670) ([06da1d1](https://github.com/bitnami/charts/commit/06da1d122aaf5236aab95a04db60045448e30f7d)), closes [#27670](https://github.com/bitnami/charts/issues/27670)
+
+## <small>8.2.9 (2024-06-28)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/nats] Release 8.2.9 (#27572) ([21d53ff](https://github.com/bitnami/charts/commit/21d53ffe4b446dbcc3e4b86b12f3fc14f0dfbba0)), closes [#27572](https://github.com/bitnami/charts/issues/27572)
+
+## <small>8.2.8 (2024-06-18)</small>
+
+* [bitnami/nats] Release 8.2.8 (#27386) ([e2627bb](https://github.com/bitnami/charts/commit/e2627bb64fda56838614ae653822536c506cf50a)), closes [#27386](https://github.com/bitnami/charts/issues/27386)
+
+## <small>8.2.7 (2024-06-17)</small>
+
+* [bitnami/nats] Release 8.2.7 (#27285) ([289e29b](https://github.com/bitnami/charts/commit/289e29b8b7af49addc31773516336b0dd5dcd37f)), closes [#27285](https://github.com/bitnami/charts/issues/27285)
+
+## <small>8.2.6 (2024-06-06)</small>
+
+* [bitnami/nats] Release 8.2.6 (#26990) ([ceb395f](https://github.com/bitnami/charts/commit/ceb395f4284e4425233a3f0916e1680cd48b3cc5)), closes [#26990](https://github.com/bitnami/charts/issues/26990)
 
 ## <small>8.2.5 (2024-06-06)</small>
 

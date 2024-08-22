@@ -14,7 +14,7 @@ Trademarks: This software listing is packaged by Bitnami. The respective tradema
 helm install my-release oci://registry-1.docker.io/bitnamicharts/grafana-operator
 ```
 
-Looking to use Grafana Operator in production? Try [VMware Tanzu Application Catalog](https://bitnami.com/enterprise), the enterprise edition of Bitnami Application Catalog.
+Looking to use Grafana Operator in production? Try [VMware Tanzu Application Catalog](https://bitnami.com/enterprise), the commercial edition of the Bitnami catalog.
 
 ## Introduction
 
@@ -363,6 +363,9 @@ extraDeploy:
 | `grafana.affinity`                                          | Affinity for controller pod assignment                                                                                                                                                                                            | `{}`                      |
 | `grafana.nodeSelector`                                      | Node labels for controller pod assignment                                                                                                                                                                                         | `{}`                      |
 | `grafana.tolerations`                                       | Tolerations for controller pod assignment                                                                                                                                                                                         | `[]`                      |
+| `grafana.pdb.create`                                        | Enable/disable a Pod Disruption Budget creation                                                                                                                                                                                   | `false`                   |
+| `grafana.pdb.minAvailable`                                  | Minimum number/percentage of pods that should remain scheduled                                                                                                                                                                    | `""`                      |
+| `grafana.pdb.maxUnavailable`                                | Maximum number/percentage of pods that may be made unavailable. Defaults to `1` if both `grafana.pdb.minAvailable` and `grafana.pdb.maxUnavailable` are empty.                                                                    | `""`                      |
 | `grafana.envFrom`                                           | Extra environment variable to pass to the running container                                                                                                                                                                       | `[]`                      |
 | `grafana.client.timeout`                                    | The timeout in seconds for the Grafana Rest API on that instance                                                                                                                                                                  | `5`                       |
 | `grafana.labels`                                            | Add additional labels to the grafana deployment, service and ingress resources                                                                                                                                                    | `{}`                      |

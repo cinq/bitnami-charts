@@ -1,8 +1,41 @@
 # Changelog
 
-## 1.2.2 (2024-06-06)
+## 1.2.10 (2024-08-08)
 
-* [bitnami/opensearch] Release 1.2.2 ([#26997](https://github.com/bitnami/charts/pull/26997))
+* [bitnami/opensearch] Release 1.2.10 ([#28777](https://github.com/bitnami/charts/pull/28777))
+
+## <small>1.2.9 (2024-07-25)</small>
+
+* [bitnami/opensearch] Release 1.2.9 (#28466) ([63ae1ed](https://github.com/bitnami/charts/commit/63ae1ed7f96b30e82faacc8283db2ef179edd4fc)), closes [#28466](https://github.com/bitnami/charts/issues/28466)
+
+## <small>1.2.8 (2024-07-24)</small>
+
+* [bitnami/opensearch] Release 1.2.8 (#28349) ([b6793e4](https://github.com/bitnami/charts/commit/b6793e4d5ff88d6d37783cc7bc8790bae0506f38)), closes [#28349](https://github.com/bitnami/charts/issues/28349)
+
+## <small>1.2.7 (2024-07-16)</small>
+
+* [bitnami/opensearch] Global StorageClass as default value (#28076) ([68f11c4](https://github.com/bitnami/charts/commit/68f11c4cf6f996ed3b2a56e20fdfc8dbd6f5df2b)), closes [#28076](https://github.com/bitnami/charts/issues/28076)
+
+## <small>1.2.6 (2024-06-28)</small>
+
+* [bitnami/opensearch] Fix opensearch annotation templating indentation (#27571) ([dcb262a](https://github.com/bitnami/charts/commit/dcb262a491a5eb97e99560ff24a13ce999e6dbb3)), closes [#27571](https://github.com/bitnami/charts/issues/27571)
+
+## <small>1.2.5 (2024-06-26)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/opensearch] Release 1.2.5 (#27543) ([80fcadc](https://github.com/bitnami/charts/commit/80fcadce0160f2ee7df08d7523f7a886beeab64c)), closes [#27543](https://github.com/bitnami/charts/issues/27543)
+
+## <small>1.2.4 (2024-06-18)</small>
+
+* [bitnami/opensearch] Release 1.2.4 (#27395) ([6aee7e9](https://github.com/bitnami/charts/commit/6aee7e9eb89e22e230dcf409f2e6c9cc01dd7b2d)), closes [#27395](https://github.com/bitnami/charts/issues/27395)
+
+## <small>1.2.3 (2024-06-17)</small>
+
+* [bitnami/opensearch] Release 1.2.3 (#27258) ([e5cf96c](https://github.com/bitnami/charts/commit/e5cf96cc6883fb8af869740ad2bf3eea1a45b343)), closes [#27258](https://github.com/bitnami/charts/issues/27258)
+
+## <small>1.2.2 (2024-06-06)</small>
+
+* [bitnami/opensearch] Release 1.2.2 (#26997) ([40c2a5a](https://github.com/bitnami/charts/commit/40c2a5a82f557a448d2002746d3b2d290e1120f9)), closes [#26997](https://github.com/bitnami/charts/issues/26997)
 
 ## <small>1.2.1 (2024-06-04)</small>
 

@@ -1,8 +1,33 @@
 # Changelog
 
-## 7.4.5 (2024-06-06)
+## 7.4.11 (2024-07-25)
 
-* [bitnami/memcached] Release 7.4.5 ([#26981](https://github.com/bitnami/charts/pull/26981))
+* [bitnami/memcached] Release 7.4.11 ([#28434](https://github.com/bitnami/charts/pull/28434))
+
+## <small>7.4.10 (2024-07-24)</small>
+
+* [bitnami/memcached] Release 7.4.10 (#28321) ([21df996](https://github.com/bitnami/charts/commit/21df996c7dc8521febae5d3ac286db0e79dac8c4)), closes [#28321](https://github.com/bitnami/charts/issues/28321)
+
+## <small>7.4.9 (2024-07-17)</small>
+
+* [bitnami/memcached] Global StorageClass as default value (#28055) ([d11158b](https://github.com/bitnami/charts/commit/d11158babda56185a8821f51e6c22b193cdcab3b)), closes [#28055](https://github.com/bitnami/charts/issues/28055)
+
+## <small>7.4.8 (2024-06-29)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/memcached] Release 7.4.8 (#27592) ([4c4db1d](https://github.com/bitnami/charts/commit/4c4db1d960a2bb26ed2ae38ae9aea5700b4b4439)), closes [#27592](https://github.com/bitnami/charts/issues/27592)
+
+## <small>7.4.7 (2024-06-18)</small>
+
+* [bitnami/memcached] Release 7.4.7 (#27378) ([8d936ea](https://github.com/bitnami/charts/commit/8d936ea16901f70a55bcbb0624f91191abbe5242)), closes [#27378](https://github.com/bitnami/charts/issues/27378)
+
+## <small>7.4.6 (2024-06-17)</small>
+
+* [bitnami/memcached] Release 7.4.6 (#27245) ([ed69bf2](https://github.com/bitnami/charts/commit/ed69bf299f647c67b34d4e7994b77495b3b1867a)), closes [#27245](https://github.com/bitnami/charts/issues/27245)
+
+## <small>7.4.5 (2024-06-06)</small>
+
+* [bitnami/memcached] Release 7.4.5 (#26981) ([2368223](https://github.com/bitnami/charts/commit/2368223b5c78de347156e1a5c466a1f685d19638)), closes [#26981](https://github.com/bitnami/charts/issues/26981)
 
 ## <small>7.4.4 (2024-06-06)</small>
 

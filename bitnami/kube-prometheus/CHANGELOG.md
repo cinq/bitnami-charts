@@ -1,8 +1,57 @@
 # Changelog
 
+## 9.5.12 (2024-08-14)
+
+* [bitnami/kube-prometheus] Release 9.5.12 ([#28879](https://github.com/bitnami/charts/pull/28879))
+
+## <small>9.5.11 (2024-08-07)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.11 (#28757) ([9738e0c](https://github.com/bitnami/charts/commit/9738e0c6bbca488bf137edaead8dfad44a1b62c1)), closes [#28757](https://github.com/bitnami/charts/issues/28757)
+
+## <small>9.5.10 (2024-07-25)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.10 (#28461) ([1a3bd4e](https://github.com/bitnami/charts/commit/1a3bd4e2175ce02ed5dc088db10bcfa3acc9cd83)), closes [#28461](https://github.com/bitnami/charts/issues/28461)
+
+## <small>9.5.9 (2024-07-24)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.9 (#28362) ([1446078](https://github.com/bitnami/charts/commit/14460789c02e423610a6abf0b853d9a65bedf219)), closes [#28362](https://github.com/bitnami/charts/issues/28362)
+
+## <small>9.5.8 (2024-07-16)</small>
+
+* [bitnami/kube-prometheus] Global StorageClass as default value (#28043) ([6c1f29e](https://github.com/bitnami/charts/commit/6c1f29e17b1b7d777e1631846359c6c646b917da)), closes [#28043](https://github.com/bitnami/charts/issues/28043)
+
+## <small>9.5.7 (2024-07-04)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.7 (#27781) ([b507458](https://github.com/bitnami/charts/commit/b5074584ed43b0ac54ec9883a12da274ee64b6e0)), closes [#27781](https://github.com/bitnami/charts/issues/27781)
+
+## <small>9.5.6 (2024-07-03)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.6 (#27674) ([892e9aa](https://github.com/bitnami/charts/commit/892e9aa2bfdae50d4f1347ed6a03bab567401d9d)), closes [#27674](https://github.com/bitnami/charts/issues/27674)
+
+## <small>9.5.5 (2024-07-02)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.5 (#27632) ([ac35b81](https://github.com/bitnami/charts/commit/ac35b8180a70248bace0e69c05ba9a53b8d0b397)), closes [#27632](https://github.com/bitnami/charts/issues/27632)
+
+## <small>9.5.4 (2024-06-26)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/kube-prometheus] Release 9.5.4 (#27551) ([73bdc54](https://github.com/bitnami/charts/commit/73bdc544c5046bc75dfb855a21939219ca929852)), closes [#27551](https://github.com/bitnami/charts/issues/27551)
+
+## <small>9.5.3 (2024-06-24)</small>
+
+* [bitnami/kube-prometheus] :bug: Render imagePullSecrets (#27511) ([b6fbb7e](https://github.com/bitnami/charts/commit/b6fbb7e5051029d8071d80ac618f9381cc1b06e0)), closes [#27511](https://github.com/bitnami/charts/issues/27511)
+
+## <small>9.5.2 (2024-06-18)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.2 (#27405) ([2d55dee](https://github.com/bitnami/charts/commit/2d55dee40c46cd4faf8f05e7772530e6545f690f)), closes [#27405](https://github.com/bitnami/charts/issues/27405)
+
+## <small>9.5.1 (2024-06-17)</small>
+
+* [bitnami/kube-prometheus] Release 9.5.1 (#27268) ([1d26cbd](https://github.com/bitnami/charts/commit/1d26cbd913ed9dd676525e7efca59e7475b384ec)), closes [#27268](https://github.com/bitnami/charts/issues/27268)
+
 ## 9.5.0 (2024-06-10)
 
-* [bitnami/kube-prometheus] Add keepDroppedTargets parameter kube-prometheus configuration ([#26409](https://github.com/bitnami/charts/pull/26409))
+* [bitnami/kube-prometheus] Add keepDroppedTargets parameter kube-prometheus configuration (#26409) ([8aa5fc8](https://github.com/bitnami/charts/commit/8aa5fc87d5e401a4625f4dfa829416cdebc83f0d)), closes [#26409](https://github.com/bitnami/charts/issues/26409)
 
 ## <small>9.4.1 (2024-06-06)</small>
 

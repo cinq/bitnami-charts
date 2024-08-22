@@ -1,8 +1,45 @@
 # Changelog
 
-## 4.4.3 (2024-06-06)
+## 4.4.12 (2024-08-07)
 
-* [bitnami/node-exporter] Release 4.4.3 ([#26993](https://github.com/bitnami/charts/pull/26993))
+* [bitnami/node-exporter] Release 4.4.12 ([#28736](https://github.com/bitnami/charts/pull/28736))
+
+## <small>4.4.11 (2024-07-25)</small>
+
+* [bitnami/node-exporter] Release 4.4.11 (#28454) ([b2e316f](https://github.com/bitnami/charts/commit/b2e316f2b53897ecc0ed52ccf28b64a72e046260)), closes [#28454](https://github.com/bitnami/charts/issues/28454)
+
+## <small>4.4.10 (2024-07-24)</small>
+
+* [bitnami/node-exporter] Release 4.4.10 (#28331) ([1fd9642](https://github.com/bitnami/charts/commit/1fd96423650c9bfc1f5ee1501473f3aa344c2f37)), closes [#28331](https://github.com/bitnami/charts/issues/28331)
+
+## <small>4.4.9 (2024-07-16)</small>
+
+* [bitnami/node-exporter] Global StorageClass as default value (#28072) ([4977903](https://github.com/bitnami/charts/commit/49779038f6c5f8c0a6ba24c3cfeaf29285418455)), closes [#28072](https://github.com/bitnami/charts/issues/28072)
+
+## <small>4.4.8 (2024-07-14)</small>
+
+* [bitnami/node-exporter] Release 4.4.8 (#27959) ([f83c58e](https://github.com/bitnami/charts/commit/f83c58e64c7c33a4594d2cd7a7f7ea5e02aeb59e)), closes [#27959](https://github.com/bitnami/charts/issues/27959)
+
+## <small>4.4.7 (2024-07-04)</small>
+
+* [bitnami/node-exporter] Release 4.4.7 (#27772) ([1205c88](https://github.com/bitnami/charts/commit/1205c887c4f450c380857f2f4bcab0e4a80a8a7e)), closes [#27772](https://github.com/bitnami/charts/issues/27772)
+
+## <small>4.4.6 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/node-exporter] Release 4.4.6 (#27668) ([b8aa99f](https://github.com/bitnami/charts/commit/b8aa99f7c6b67a23c9a0814ec5c589070e2b8b48)), closes [#27668](https://github.com/bitnami/charts/issues/27668)
+
+## <small>4.4.5 (2024-06-18)</small>
+
+* [bitnami/node-exporter] Release 4.4.5 (#27391) ([5a9a37c](https://github.com/bitnami/charts/commit/5a9a37c37072cec5a556925e689c2ce5d5587f19)), closes [#27391](https://github.com/bitnami/charts/issues/27391)
+
+## <small>4.4.4 (2024-06-17)</small>
+
+* [bitnami/node-exporter] Release 4.4.4 (#27255) ([ef9d1bb](https://github.com/bitnami/charts/commit/ef9d1bbfe4959730013f5eddccd88f268defd6a5)), closes [#27255](https://github.com/bitnami/charts/issues/27255)
+
+## <small>4.4.3 (2024-06-06)</small>
+
+* [bitnami/node-exporter] Release 4.4.3 (#26993) ([9ffacbf](https://github.com/bitnami/charts/commit/9ffacbfc73233b8c8b5eda941b3a3c6d1cda3f34)), closes [#26993](https://github.com/bitnami/charts/issues/26993)
 
 ## <small>4.4.2 (2024-06-05)</small>
 

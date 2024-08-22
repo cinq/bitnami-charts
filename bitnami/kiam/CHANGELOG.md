@@ -1,8 +1,45 @@
 # Changelog
 
-## 2.2.3 (2024-06-06)
+## 2.2.12 (2024-08-07)
 
-* [bitnami/kiam] Release 2.2.3 ([#26971](https://github.com/bitnami/charts/pull/26971))
+* [bitnami/kiam] Release 2.2.12 ([#28723](https://github.com/bitnami/charts/pull/28723))
+
+## <small>2.2.11 (2024-07-25)</small>
+
+* [bitnami/kiam] Release 2.2.11 (#28425) ([89048cb](https://github.com/bitnami/charts/commit/89048cb6b41ae3e06173e85a60ac0b99a8499a32)), closes [#28425](https://github.com/bitnami/charts/issues/28425)
+
+## <small>2.2.10 (2024-07-24)</small>
+
+* [bitnami/kiam] Release 2.2.10 (#28292) ([2e9e5dd](https://github.com/bitnami/charts/commit/2e9e5dd037e082defd7491fa49df76f51438c8d9)), closes [#28292](https://github.com/bitnami/charts/issues/28292)
+
+## <small>2.2.9 (2024-07-24)</small>
+
+* [bitnami/kiam] Release 2.2.9 (#28263) ([d77d200](https://github.com/bitnami/charts/commit/d77d200f3695d262c0073c3fea17568d52e9c772)), closes [#28263](https://github.com/bitnami/charts/issues/28263)
+
+## <small>2.2.8 (2024-07-19)</small>
+
+* [bitnami/kiam] Global StorageClass as default value (#28040) ([bcebfb0](https://github.com/bitnami/charts/commit/bcebfb0311c21bb5909f310ab1b7011a326b3cab)), closes [#28040](https://github.com/bitnami/charts/issues/28040)
+
+## <small>2.2.7 (2024-07-04)</small>
+
+* [bitnami/kiam] Release 2.2.7 (#27787) ([bb34d7f](https://github.com/bitnami/charts/commit/bb34d7f6281499e25b317cc998d459b45c81cbe5)), closes [#27787](https://github.com/bitnami/charts/issues/27787)
+
+## <small>2.2.6 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/kiam] Release 2.2.6 (#27655) ([bde09c5](https://github.com/bitnami/charts/commit/bde09c56a79f1a9e95aec9fa46e9b5f40f27f940)), closes [#27655](https://github.com/bitnami/charts/issues/27655)
+
+## <small>2.2.5 (2024-06-18)</small>
+
+* [bitnami/kiam] Release 2.2.5 (#27365) ([7b0acfb](https://github.com/bitnami/charts/commit/7b0acfb2c828631af7b7c34964dbb60bf70a8927)), closes [#27365](https://github.com/bitnami/charts/issues/27365)
+
+## <small>2.2.4 (2024-06-17)</small>
+
+* [bitnami/kiam] Release 2.2.4 (#27265) ([aae30c3](https://github.com/bitnami/charts/commit/aae30c35857f82f20d9edf45e20316991f687ddf)), closes [#27265](https://github.com/bitnami/charts/issues/27265)
+
+## <small>2.2.3 (2024-06-06)</small>
+
+* [bitnami/kiam] Release 2.2.3 (#26971) ([3c1fc88](https://github.com/bitnami/charts/commit/3c1fc88212d5817b751f144af1b51ad4a053f7da)), closes [#26971](https://github.com/bitnami/charts/issues/26971)
 
 ## <small>2.2.2 (2024-06-05)</small>
 

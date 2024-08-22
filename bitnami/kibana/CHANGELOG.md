@@ -1,8 +1,61 @@
 # Changelog
 
-## 11.2.6 (2024-06-12)
+## 11.2.19 (2024-08-19)
 
-* [bitnami/kibana] Release 11.2.6 ([#27134](https://github.com/bitnami/charts/pull/27134))
+* [bitnami/kibana] Increase wait for DOM content in Cypress test ([#28924](https://github.com/bitnami/charts/pull/28924))
+
+## <small>11.2.18 (2024-08-16)</small>
+
+* [bitnami/kibana] Release 11.2.18 (#28898) ([9b955d2](https://github.com/bitnami/charts/commit/9b955d22fac1a09e2848a43d2d1dfe17b7d11808)), closes [#28898](https://github.com/bitnami/charts/issues/28898)
+
+## <small>11.2.17 (2024-08-14)</small>
+
+* [bitnami/kibana] Release 11.2.17 (#28796) ([9ac77d0](https://github.com/bitnami/charts/commit/9ac77d00a367100840256c722cb0acd2585e41b0)), closes [#28796](https://github.com/bitnami/charts/issues/28796)
+
+## <small>11.2.16 (2024-07-30)</small>
+
+* [bitnami/kibana] add publicBaseUrl param (#28543) ([edad571](https://github.com/bitnami/charts/commit/edad571366b89d72d52b30bbdc850535c87f96d6)), closes [#28543](https://github.com/bitnami/charts/issues/28543)
+
+## <small>11.2.15 (2024-07-25)</small>
+
+* [bitnami/kibana] Release 11.2.15 (#28471) ([bf1bafa](https://github.com/bitnami/charts/commit/bf1bafaf00358d46360f229ff3a362eb6a642eff)), closes [#28471](https://github.com/bitnami/charts/issues/28471)
+
+## <small>11.2.14 (2024-07-24)</small>
+
+* [bitnami/kibana] Release 11.2.14 (#28323) ([5c32ef7](https://github.com/bitnami/charts/commit/5c32ef74cf12707719ea3adbd9b40149b33d412e)), closes [#28323](https://github.com/bitnami/charts/issues/28323)
+
+## <small>11.2.13 (2024-07-24)</small>
+
+* [bitnami/kibana] Release 11.2.13 (#28271) ([bc2b42d](https://github.com/bitnami/charts/commit/bc2b42df6a5fe4e74fcfcfb3ea52b2be80fb1d9b)), closes [#28271](https://github.com/bitnami/charts/issues/28271)
+
+## <small>11.2.12 (2024-07-16)</small>
+
+* [bitnami/kibana] Global StorageClass as default value (#28041) ([a63f765](https://github.com/bitnami/charts/commit/a63f7654c431062b78558cb096c7cd65054f241c)), closes [#28041](https://github.com/bitnami/charts/issues/28041)
+
+## <small>11.2.11 (2024-07-11)</small>
+
+* [bitnami/kibana] Release 11.2.11 (#27909) ([bbbe46f](https://github.com/bitnami/charts/commit/bbbe46f4fd1877ab80c092544f02b8ebddd1224d)), closes [#27909](https://github.com/bitnami/charts/issues/27909)
+
+## <small>11.2.10 (2024-07-04)</small>
+
+* [bitnami/kibana] Release 11.2.10 (#27790) ([175b63e](https://github.com/bitnami/charts/commit/175b63e6452d0358885e811c4a2542ffdc4ade52)), closes [#27790](https://github.com/bitnami/charts/issues/27790)
+
+## <small>11.2.9 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/kibana] Release 11.2.9 (#27701) ([7338901](https://github.com/bitnami/charts/commit/73389017b5993990144519d70130fd6e35ad55b9)), closes [#27701](https://github.com/bitnami/charts/issues/27701)
+
+## <small>11.2.8 (2024-06-18)</small>
+
+* [bitnami/kibana] Release 11.2.8 (#27364) ([d8e27c5](https://github.com/bitnami/charts/commit/d8e27c5c151f1a219890211f7ba7a00e3bcee503)), closes [#27364](https://github.com/bitnami/charts/issues/27364)
+
+## <small>11.2.7 (2024-06-17)</small>
+
+* [bitnami/kibana] Release 11.2.7 (#27238) ([441dd4f](https://github.com/bitnami/charts/commit/441dd4f5aa11d8d339a7370f7dc3baa1e22d0327)), closes [#27238](https://github.com/bitnami/charts/issues/27238)
+
+## <small>11.2.6 (2024-06-12)</small>
+
+* [bitnami/kibana] Release 11.2.6 (#27134) ([29859b8](https://github.com/bitnami/charts/commit/29859b8862360aae8fcd63a7f25bc9db9d46b009)), closes [#27134](https://github.com/bitnami/charts/issues/27134)
 
 ## <small>11.2.5 (2024-06-12)</small>
 

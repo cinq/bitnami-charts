@@ -1,8 +1,37 @@
 # Changelog
 
-## 9.2.2 (2024-06-06)
+## 9.2.9 (2024-08-12)
 
-* [bitnami/spark] Release 9.2.2 ([#27021](https://github.com/bitnami/charts/pull/27021))
+* [bitnami/spark] Release 9.2.9 ([#28833](https://github.com/bitnami/charts/pull/28833))
+
+## <small>9.2.8 (2024-07-25)</small>
+
+* [bitnami/spark] Release 9.2.8 (#28498) ([947dec0](https://github.com/bitnami/charts/commit/947dec017ad4a59e817791c363b7367c1dd96d49)), closes [#28498](https://github.com/bitnami/charts/issues/28498)
+
+## <small>9.2.7 (2024-07-24)</small>
+
+* [bitnami/spark] Release 9.2.7 (#28393) ([c72861c](https://github.com/bitnami/charts/commit/c72861cb4fcebdca4cbe6368967dc3d73eebe9fe)), closes [#28393](https://github.com/bitnami/charts/issues/28393)
+
+## <small>9.2.6 (2024-07-18)</small>
+
+* [bitnami/spark] Global StorageClass as default value (#28098) ([a71c989](https://github.com/bitnami/charts/commit/a71c989e8810622b5c0eeddef8fae16d17831f64)), closes [#28098](https://github.com/bitnami/charts/issues/28098)
+
+## <small>9.2.5 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/spark] Release 9.2.5 (#27719) ([5dfefe1](https://github.com/bitnami/charts/commit/5dfefe1a0d1f2da7655fb26b3a36d1a7aba337b4)), closes [#27719](https://github.com/bitnami/charts/issues/27719)
+
+## <small>9.2.4 (2024-06-18)</small>
+
+* [bitnami/spark] Release 9.2.4 (#27419) ([8d0a80f](https://github.com/bitnami/charts/commit/8d0a80fc4933932005d946b82c8fa4750d91ddcf)), closes [#27419](https://github.com/bitnami/charts/issues/27419)
+
+## <small>9.2.3 (2024-06-17)</small>
+
+* [bitnami/spark] Release 9.2.3 (#27304) ([1b43ea1](https://github.com/bitnami/charts/commit/1b43ea1a272812f29abefc0374544ca1f4d3e519)), closes [#27304](https://github.com/bitnami/charts/issues/27304)
+
+## <small>9.2.2 (2024-06-06)</small>
+
+* [bitnami/spark] Release 9.2.2 (#27021) ([ff645d7](https://github.com/bitnami/charts/commit/ff645d76d78913c2afbce282f89a40cb795d8ffe)), closes [#27021](https://github.com/bitnami/charts/issues/27021)
 
 ## <small>9.2.1 (2024-06-06)</small>
 

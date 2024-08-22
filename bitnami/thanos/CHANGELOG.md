@@ -1,8 +1,69 @@
 # Changelog
 
-## 15.7.6 (2024-06-12)
+## 15.7.21 (2024-08-19)
 
-*  [bitnami/thanos] Fix sharded storegateway cache configs (again) ([#27101](https://github.com/bitnami/charts/pull/27101))
+* [bitnami/thanos] Update index cache config for sharded store gateway ([#28747](https://github.com/bitnami/charts/pull/28747))
+
+## <small>15.7.20 (2024-08-13)</small>
+
+* [bitnami/thanos] Release 15.7.20 (#28859) ([73a02f4](https://github.com/bitnami/charts/commit/73a02f4120fcf42be703443a888f5ed0b5c34477)), closes [#28859](https://github.com/bitnami/charts/issues/28859)
+
+## <small>15.7.19 (2024-08-09)</small>
+
+* [bitnami/thanos] add receive distributor termination grace period (#28793) ([6838ae1](https://github.com/bitnami/charts/commit/6838ae1092db9c66327d03f1955c6b0cc3afa0ad)), closes [#28793](https://github.com/bitnami/charts/issues/28793)
+
+## <small>15.7.18 (2024-08-07)</small>
+
+* [bitnami/thanos] Release 15.7.18 (#28752) ([8994d7b](https://github.com/bitnami/charts/commit/8994d7b7c5d751a90b2a65cd970cc4bed56471be)), closes [#28752](https://github.com/bitnami/charts/issues/28752)
+
+## <small>15.7.17 (2024-08-02)</small>
+
+* [bitnami/thanos] add ruler custom data path (#28606) ([125fb1b](https://github.com/bitnami/charts/commit/125fb1b454c3395444609a43dc4686cba2148fa2)), closes [#28606](https://github.com/bitnami/charts/issues/28606)
+
+## <small>15.7.16 (2024-07-31)</small>
+
+* [bitnami/thanos] Release 15.7.16 (#28607) ([d966dfe](https://github.com/bitnami/charts/commit/d966dfe78fbadcd456bd08185f9eb67c1c3221b1)), closes [#28607](https://github.com/bitnami/charts/issues/28607)
+
+## <small>15.7.15 (2024-07-25)</small>
+
+* [bitnami/thanos] Release 15.7.15 (#28508) ([5dbafa2](https://github.com/bitnami/charts/commit/5dbafa2940605911ead5777fc34219e1e7814333)), closes [#28508](https://github.com/bitnami/charts/issues/28508)
+
+## <small>15.7.14 (2024-07-24)</small>
+
+* [bitnami/thanos] Release 15.7.14 (#28386) ([edf6bd2](https://github.com/bitnami/charts/commit/edf6bd206e61401919388afae48c86202c6adc88)), closes [#28386](https://github.com/bitnami/charts/issues/28386)
+
+## <small>15.7.13 (2024-07-18)</small>
+
+* [bitnami/thanos] Global StorageClass as default value (#28103) ([e239a85](https://github.com/bitnami/charts/commit/e239a8575d54acb106885d4861690d037d0ff7dc)), closes [#28103](https://github.com/bitnami/charts/issues/28103)
+
+## <small>15.7.12 (2024-07-04)</small>
+
+* [bitnami/thanos] Release 15.7.12 (#27792) ([f4bd712](https://github.com/bitnami/charts/commit/f4bd7126c3617faa30c875b68a1f974d72c53ca6)), closes [#27792](https://github.com/bitnami/charts/issues/27792)
+
+## <small>15.7.11 (2024-07-03)</small>
+
+* [bitnami/thanos] Release 15.7.11 (#27678) ([a0a34ce](https://github.com/bitnami/charts/commit/a0a34cef1d7537e9f5a1cb457e7bfcf932932b10)), closes [#27678](https://github.com/bitnami/charts/issues/27678)
+
+## <small>15.7.10 (2024-06-26)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/thanos] Add validation for Thanos receive configuration (#27501) ([fbf31b7](https://github.com/bitnami/charts/commit/fbf31b7dc547003ef016a3ac2ac46f9e89b15245)), closes [#27501](https://github.com/bitnami/charts/issues/27501)
+
+## <small>15.7.9 (2024-06-18)</small>
+
+* [bitnami/thanos] Release 15.7.9 (#27424) ([ef0b51e](https://github.com/bitnami/charts/commit/ef0b51e43f2de5b48901baca609aeac475513d8c)), closes [#27424](https://github.com/bitnami/charts/issues/27424)
+
+## <small>15.7.8 (2024-06-18)</small>
+
+* [bitnami/thanos] fix thanos dual-stack receive monitoring (#27112) ([017b2fb](https://github.com/bitnami/charts/commit/017b2fbec6acfa382a1cf08968b5cb676ba42b8d)), closes [#27112](https://github.com/bitnami/charts/issues/27112)
+
+## <small>15.7.7 (2024-06-17)</small>
+
+* [bitnami/thanos] Release 15.7.7 (#27294) ([7e339f1](https://github.com/bitnami/charts/commit/7e339f15ac83263c386d63e2bf68cfd82fca7deb)), closes [#27294](https://github.com/bitnami/charts/issues/27294)
+
+## <small>15.7.6 (2024-06-12)</small>
+
+*  [bitnami/thanos] Fix sharded storegateway cache configs (again) (#27101) ([e6d16b4](https://github.com/bitnami/charts/commit/e6d16b4256f027adbb3610b4e66ee2c05039618f)), closes [#27101](https://github.com/bitnami/charts/issues/27101)
 
 ## <small>15.7.5 (2024-06-11)</small>
 

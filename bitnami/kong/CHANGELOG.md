@@ -1,8 +1,49 @@
 # Changelog
 
-## 12.2.1 (2024-06-06)
+## 12.2.11 (2024-08-22)
 
-* [bitnami/kong] Release 12.2.1 ([#26970](https://github.com/bitnami/charts/pull/26970))
+* [bitnami/kong] Release 12.2.11 ([#28964](https://github.com/bitnami/charts/pull/28964))
+
+## <small>12.2.10 (2024-07-25)</small>
+
+* [bitnami/kong] Release 12.2.10 (#28509) ([1d7aa1c](https://github.com/bitnami/charts/commit/1d7aa1c3f7ef36a7a159b0a51c4aba1bde9b692e)), closes [#28509](https://github.com/bitnami/charts/issues/28509)
+
+## <small>12.2.9 (2024-07-24)</small>
+
+* [bitnami/kong] Release 12.2.9 (#28390) ([8e11928](https://github.com/bitnami/charts/commit/8e1192888a7930e11c8cd259456869348e742743)), closes [#28390](https://github.com/bitnami/charts/issues/28390)
+
+## <small>12.2.8 (2024-07-23)</small>
+
+* [bitnami/kong] Release 12.2.8 (#28212) ([7781ee0](https://github.com/bitnami/charts/commit/7781ee0271ccab2c8beb7d8c0190f6b83b4da611)), closes [#28212](https://github.com/bitnami/charts/issues/28212)
+
+## <small>12.2.7 (2024-07-18)</small>
+
+* [bitnami/kong] Global StorageClass as default value (#28042) ([0d5fd72](https://github.com/bitnami/charts/commit/0d5fd72f4d1307f8437b149589b4e9e8df0f7c34)), closes [#28042](https://github.com/bitnami/charts/issues/28042)
+
+## <small>12.2.6 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/kong] Release 12.2.6 (#27698) ([277f389](https://github.com/bitnami/charts/commit/277f389d58297bc7ac9dae529e2ee37a8d5c88ad)), closes [#27698](https://github.com/bitnami/charts/issues/27698)
+
+## <small>12.2.5 (2024-06-21)</small>
+
+* [bitnami/kong] Release 12.2.5 (#27481) ([0a244ff](https://github.com/bitnami/charts/commit/0a244ffab824b403db7d1bc265351e33ed6bf0de)), closes [#27481](https://github.com/bitnami/charts/issues/27481)
+
+## <small>12.2.4 (2024-06-19)</small>
+
+* [bitnami/kong] Release 12.2.4 (#27456) ([81b7b69](https://github.com/bitnami/charts/commit/81b7b6955bbae026c7bc8146188f0721cad048b1)), closes [#27456](https://github.com/bitnami/charts/issues/27456)
+
+## <small>12.2.3 (2024-06-18)</small>
+
+* [bitnami/kong] Release 12.2.3 (#27366) ([3c12d1d](https://github.com/bitnami/charts/commit/3c12d1d6d44f557149388980f2cc8b34c2e7251f)), closes [#27366](https://github.com/bitnami/charts/issues/27366)
+
+## <small>12.2.2 (2024-06-17)</small>
+
+* [bitnami/kong] Release 12.2.2 (#27261) ([77cbfcf](https://github.com/bitnami/charts/commit/77cbfcf0bfc71deaae131e03396fab5e7c6b571f)), closes [#27261](https://github.com/bitnami/charts/issues/27261)
+
+## <small>12.2.1 (2024-06-06)</small>
+
+* [bitnami/kong] Release 12.2.1 (#26970) ([ce6b8ee](https://github.com/bitnami/charts/commit/ce6b8ee3dec599e4e5f077fb77fd3647f8c224f6)), closes [#26970](https://github.com/bitnami/charts/issues/26970)
 
 ## 12.2.0 (2024-06-06)
 

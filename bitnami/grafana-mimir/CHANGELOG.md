@@ -1,8 +1,49 @@
 # Changelog
 
-## 1.2.1 (2024-06-06)
+## 1.2.11 (2024-08-07)
 
-* [bitnami/grafana-mimir] Release 1.2.1 ([#26954](https://github.com/bitnami/charts/pull/26954))
+* [bitnami/grafana-mimir] Release 1.2.11 ([#28715](https://github.com/bitnami/charts/pull/28715))
+
+## <small>1.2.10 (2024-07-25)</small>
+
+* [bitnami/grafana-mimir] Release 1.2.10 (#28415) ([ab58d00](https://github.com/bitnami/charts/commit/ab58d00e2c0cc6489184b6de2ac8687311160293)), closes [#28415](https://github.com/bitnami/charts/issues/28415)
+
+## <small>1.2.9 (2024-07-24)</small>
+
+* [bitnami/grafana-mimir] Release 1.2.9 (#28312) ([7b1b3bc](https://github.com/bitnami/charts/commit/7b1b3bc73e04c57a69400851ff47ef110fbf24a9)), closes [#28312](https://github.com/bitnami/charts/issues/28312)
+
+## <small>1.2.8 (2024-07-24)</small>
+
+* [bitnami/grafana-mimir] Release 1.2.8 (#28247) ([923cd57](https://github.com/bitnami/charts/commit/923cd57a07cae06635b7bbc82816f1d802e58532)), closes [#28247](https://github.com/bitnami/charts/issues/28247)
+
+## <small>1.2.7 (2024-07-22)</small>
+
+* [bitnami/grafana-mimir] Global StorageClass as default value (#28026) ([ca1fab7](https://github.com/bitnami/charts/commit/ca1fab7ceca035dc4f1a34bf14afc758cbf0cee8)), closes [#28026](https://github.com/bitnami/charts/issues/28026)
+
+## <small>1.2.6 (2024-07-05)</small>
+
+* [bitnami/grafana-mimir] Release 1.2.6 (#27826) ([f905b88](https://github.com/bitnami/charts/commit/f905b887f60db45761cb1b7034f7451297062a97)), closes [#27826](https://github.com/bitnami/charts/issues/27826)
+
+## <small>1.2.5 (2024-07-04)</small>
+
+* [bitnami/grafana-mimir] Release 1.2.5 (#27767) ([4ecd808](https://github.com/bitnami/charts/commit/4ecd808615065f34f6ea97fcd68a393761d42dad)), closes [#27767](https://github.com/bitnami/charts/issues/27767)
+
+## <small>1.2.4 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/grafana-mimir] Release 1.2.4 (#27651) ([c3ca8c3](https://github.com/bitnami/charts/commit/c3ca8c35942f39a665475451f7063995c354f89c)), closes [#27651](https://github.com/bitnami/charts/issues/27651)
+
+## <small>1.2.3 (2024-06-18)</small>
+
+* [bitnami/grafana-mimir] Release 1.2.3 (#27351) ([bea97ef](https://github.com/bitnami/charts/commit/bea97ef105d07a94cd50fd9eb894195cbd21f1d9)), closes [#27351](https://github.com/bitnami/charts/issues/27351)
+
+## <small>1.2.2 (2024-06-17)</small>
+
+* [bitnami/grafana-mimir] Release 1.2.2 (#27224) ([8657fec](https://github.com/bitnami/charts/commit/8657fecf03fc5d7f96671399038ec17bc7d7aad3)), closes [#27224](https://github.com/bitnami/charts/issues/27224)
+
+## <small>1.2.1 (2024-06-06)</small>
+
+* [bitnami/grafana-mimir] Release 1.2.1 (#26954) ([06d3971](https://github.com/bitnami/charts/commit/06d3971e5f34d6ab755080fde8a10fffd6766e75)), closes [#26954](https://github.com/bitnami/charts/issues/26954)
 
 ## 1.2.0 (2024-06-06)
 

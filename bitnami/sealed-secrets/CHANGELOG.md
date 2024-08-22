@@ -1,8 +1,53 @@
 # Changelog
 
-## 2.3.3 (2024-06-06)
+## 2.4.5 (2024-08-07)
 
-* [bitnami/sealed-secrets] Release 2.3.3 ([#27013](https://github.com/bitnami/charts/pull/27013))
+* [bitnami/sealed-secrets] Release 2.4.5 ([#28749](https://github.com/bitnami/charts/pull/28749))
+
+## <small>2.4.4 (2024-07-25)</small>
+
+* [bitnami/sealed-secrets] Release 2.4.4 (#28472) ([185eaed](https://github.com/bitnami/charts/commit/185eaed693b19f3d0ea47b66d7f25ff0c576ecc2)), closes [#28472](https://github.com/bitnami/charts/issues/28472)
+
+## <small>2.4.3 (2024-07-24)</small>
+
+* [bitnami/sealed-secrets] Release 2.4.3 (#28369) ([642152a](https://github.com/bitnami/charts/commit/642152a337365b65df6659ca25294ed03a65a93f)), closes [#28369](https://github.com/bitnami/charts/issues/28369)
+
+## <small>2.4.2 (2024-07-18)</small>
+
+* [bitnami/sealed-secrets] Release 2.4.2 (#28156) ([0d7dcb7](https://github.com/bitnami/charts/commit/0d7dcb71e6812a6b4060db73c60abe02edf23cb0)), closes [#28156](https://github.com/bitnami/charts/issues/28156)
+
+## <small>2.4.1 (2024-07-18)</small>
+
+* [bitnami/sealed-secrets] Remove global.storageClass (#28094) ([bed4701](https://github.com/bitnami/charts/commit/bed47017dd178fa7db81ec9042d5ee2a1ee4dc47)), closes [#28094](https://github.com/bitnami/charts/issues/28094)
+
+## 2.4.0 (2024-07-10)
+
+* bitnami/sealed-secrets: add loadbalancerclass (#27608) ([cfe40ce](https://github.com/bitnami/charts/commit/cfe40ce6ce725757329db1566fea83ec78cbd078)), closes [#27608](https://github.com/bitnami/charts/issues/27608)
+
+## <small>2.3.8 (2024-07-04)</small>
+
+* [bitnami/sealed-secrets] Release 2.3.8 (#27789) ([4338deb](https://github.com/bitnami/charts/commit/4338debda4d9f710bfc28399fc1fcf041d810325)), closes [#27789](https://github.com/bitnami/charts/issues/27789)
+
+## <small>2.3.7 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/sealed-secrets] Release 2.3.7 (#27677) ([19a26c9](https://github.com/bitnami/charts/commit/19a26c998d51186800af33972291b807d706e508)), closes [#27677](https://github.com/bitnami/charts/issues/27677)
+
+## <small>2.3.6 (2024-06-20)</small>
+
+* [bitnami/sealed-secrets] Release 2.3.6 (#27466) ([d8792c6](https://github.com/bitnami/charts/commit/d8792c6955c6a928b1459f07a1796027332eba77)), closes [#27466](https://github.com/bitnami/charts/issues/27466)
+
+## <small>2.3.5 (2024-06-18)</small>
+
+* [bitnami/sealed-secrets] Release 2.3.5 (#27416) ([45883f7](https://github.com/bitnami/charts/commit/45883f7cbbea768eb35ee457a6750a74d2af5340)), closes [#27416](https://github.com/bitnami/charts/issues/27416)
+
+## <small>2.3.4 (2024-06-17)</small>
+
+* [bitnami/sealed-secrets] Release 2.3.4 (#27280) ([9bb5e9b](https://github.com/bitnami/charts/commit/9bb5e9b04eb5c04976be2c697e4ff12635bc0fc0)), closes [#27280](https://github.com/bitnami/charts/issues/27280)
+
+## <small>2.3.3 (2024-06-06)</small>
+
+* [bitnami/sealed-secrets] Release 2.3.3 (#27013) ([4cea59e](https://github.com/bitnami/charts/commit/4cea59e72fe8829639bdc49bb7f52bc811449264)), closes [#27013](https://github.com/bitnami/charts/issues/27013)
 
 ## <small>2.3.2 (2024-06-05)</small>
 

@@ -14,7 +14,7 @@ Trademarks: This software listing is packaged by Bitnami. The respective tradema
 helm install my-release oci://registry-1.docker.io/bitnamicharts/mysql
 ```
 
-Looking to use MySQL in production? Try [VMware Tanzu Application Catalog](https://bitnami.com/enterprise), the enterprise edition of Bitnami Application Catalog.
+Looking to use MySQL in production? Try [VMware Tanzu Application Catalog](https://bitnami.com/enterprise), the commercial edition of the Bitnami catalog.
 
 ## Introduction
 
@@ -73,12 +73,16 @@ When using a `.sh` script, you may wish to perform a "one-time" action like crea
 ```yaml
 initdbScripts:
   my_init_script.sh: |
-    #!/bin/sh
-    if [[ $(hostname) == *master* ]]; then
-      echo "Master node"
-      mysql -P 3306 -uroot -prandompassword -e "create database new_database";
+    #!/bin/bash
+    if [[ $(hostname) == *primary* ]]; then
+      echo "Primary node"
+      password_aux="${MYSQL_ROOT_PASSWORD:-}"
+      if [[ -f "${MYSQL_ROOT_PASSWORD_FILE:-}" ]]; then
+          password_aux=$(cat "$MYSQL_ROOT_PASSWORD_FILE")
+      fi
+      mysql -P 3306 -uroot -p"$password_aux" -e "create database new_database";
     else
-      echo "No master node"
+      echo "Secondary node"
     fi
 ```
 
@@ -145,7 +149,8 @@ If you encounter errors when working with persistent volumes, refer to our [trou
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | `global.imageRegistry`                                | Global Docker image registry                                                                                                                                                                                                                                                                                                                                        | `""`   |
 | `global.imagePullSecrets`                             | Global Docker registry secret names as an array                                                                                                                                                                                                                                                                                                                     | `[]`   |
-| `global.storageClass`                                 | Global StorageClass for Persistent Volume(s)                                                                                                                                                                                                                                                                                                                        | `""`   |
+| `global.defaultStorageClass`                          | Global default StorageClass for Persistent Volume(s)                                                                                                                                                                                                                                                                                                                | `""`   |
+| `global.storageClass`                                 | DEPRECATED: use global.defaultStorageClass instead                                                                                                                                                                                                                                                                                                                  | `""`   |
 | `global.compatibility.openshift.adaptSecurityContext` | Adapt the securityContext sections of the deployment to make them compatible with Openshift restricted-v2 SCC: remove runAsUser, runAsGroup and fsGroup and let the platform use their allowed default IDs. Possible values: auto (apply if the detected running cluster is Openshift), force (perform the adaptation always), disabled (do not perform adaptation) | `auto` |
 
 ### Common parameters

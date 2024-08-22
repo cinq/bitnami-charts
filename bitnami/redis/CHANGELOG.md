@@ -1,8 +1,54 @@
 # Changelog
 
-## 19.5.3 (2024-06-12)
+## 20.0.3 (2024-08-20)
 
-* [bitnami/redis] Fix sentinel PDB condition ([#27080](https://github.com/bitnami/charts/pull/27080))
+* [bitnami/redis] Release 20.0.3 ([#28941](https://github.com/bitnami/charts/pull/28941))
+
+## <small>20.0.2 (2024-08-14)</small>
+
+* [bitnami/redis] Release 20.0.2 (#28881) ([582b058](https://github.com/bitnami/charts/commit/582b058c032a83ad74eed87c9e9665ca4252f0ce)), closes [#28881](https://github.com/bitnami/charts/issues/28881)
+* [bitnami/redis] Update README after major update (#28848) ([a96205b](https://github.com/bitnami/charts/commit/a96205be4d1d1b4af34bf000cae49ae63b237a2a)), closes [#28848](https://github.com/bitnami/charts/issues/28848)
+
+## <small>20.0.1 (2024-08-09)</small>
+
+* [bitnami/redis] fix: Use rollout restart in ginkgo tests (#28813) ([1d8cb54](https://github.com/bitnami/charts/commit/1d8cb543a33d12b519a4b0e28fa99d3e20421a28)), closes [#28813](https://github.com/bitnami/charts/issues/28813)
+
+## 20.0.0 (2024-08-09)
+
+* [bitnami/redis] Release 20.0.0 (#28810) ([9e08d34](https://github.com/bitnami/charts/commit/9e08d34b938aebbe3ed955f4224b8e525313821d)), closes [#28810](https://github.com/bitnami/charts/issues/28810)
+
+## <small>19.6.4 (2024-07-25)</small>
+
+* [bitnami/redis] Release 19.6.4 (#28499) ([aaa7a7c](https://github.com/bitnami/charts/commit/aaa7a7cd11bfd8821d0464ef312ef0f66a3afce5)), closes [#28499](https://github.com/bitnami/charts/issues/28499)
+
+## <small>19.6.3 (2024-07-24)</small>
+
+* [bitnami/redis] Release 19.6.3 (#28365) ([e7ef119](https://github.com/bitnami/charts/commit/e7ef119715fad9e14d990a235a45f21a3158052d)), closes [#28365](https://github.com/bitnami/charts/issues/28365)
+
+## <small>19.6.2 (2024-07-16)</small>
+
+* [bitnami/redis] Global StorageClass as default value (#28089) ([5c8de02](https://github.com/bitnami/charts/commit/5c8de02f432e95ff59f033af241ccb7d566b9c6a)), closes [#28089](https://github.com/bitnami/charts/issues/28089)
+
+## <small>19.6.1 (2024-07-03)</small>
+
+* [bitnami/redis] Release 19.6.1 (#27712) ([a8f05c6](https://github.com/bitnami/charts/commit/a8f05c665a810762b420864a29460d8c84421f73)), closes [#27712](https://github.com/bitnami/charts/issues/27712)
+
+## 19.6.0 (2024-06-26)
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/redis] Allow setting revisionHistoryLimit (#27498) ([f8ea005](https://github.com/bitnami/charts/commit/f8ea005b071d8f2bbb6ccfe0a722ff8ca2882b3d)), closes [#27498](https://github.com/bitnami/charts/issues/27498)
+
+## <small>19.5.5 (2024-06-18)</small>
+
+* [bitnami/redis] Release 19.5.5 (#27411) ([ea96081](https://github.com/bitnami/charts/commit/ea96081967711fbb45815b51363a9c5818623a6f)), closes [#27411](https://github.com/bitnami/charts/issues/27411)
+
+## <small>19.5.4 (2024-06-17)</small>
+
+* [bitnami/redis] Release 19.5.4 (#27277) ([fe4c932](https://github.com/bitnami/charts/commit/fe4c932de4fec2aefd4d56dd9d0145c0bd76cc15)), closes [#27277](https://github.com/bitnami/charts/issues/27277)
+
+## <small>19.5.3 (2024-06-13)</small>
+
+* [bitnami/redis] Fix sentinel PDB condition (#27080) ([2d8e19f](https://github.com/bitnami/charts/commit/2d8e19f100c67838636a394c751f6f3994e62f73)), closes [#27080](https://github.com/bitnami/charts/issues/27080)
 
 ## <small>19.5.2 (2024-06-06)</small>
 

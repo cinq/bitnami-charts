@@ -1,8 +1,37 @@
 # Changelog
 
-## 5.2.5 (2024-06-14)
+## 5.2.12 (2024-07-25)
 
-* [bitnami/sonarqube] Release 5.2.5 ([#27174](https://github.com/bitnami/charts/pull/27174))
+* [bitnami/sonarqube] Release 5.2.12 ([#28496](https://github.com/bitnami/charts/pull/28496))
+
+## <small>5.2.11 (2024-07-24)</small>
+
+* [bitnami/sonarqube] Release 5.2.11 (#28372) ([ad643fb](https://github.com/bitnami/charts/commit/ad643fb7e913cf2d3a88ccd95613ff68b6a06f8f)), closes [#28372](https://github.com/bitnami/charts/issues/28372)
+
+## <small>5.2.10 (2024-07-16)</small>
+
+* [bitnami/sonarqube] Global StorageClass as default value (#28097) ([08dbee6](https://github.com/bitnami/charts/commit/08dbee687e0a8f407953ee4e63ef573860e9bfc4)), closes [#28097](https://github.com/bitnami/charts/issues/28097)
+
+## <small>5.2.9 (2024-07-12)</small>
+
+* [bitnami/sonarqube] Release 5.2.9 (#27946) ([8e915a9](https://github.com/bitnami/charts/commit/8e915a9b5f8501ab112408a705e989b9c8aff9fb)), closes [#27946](https://github.com/bitnami/charts/issues/27946)
+
+## <small>5.2.8 (2024-07-12)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/sonarqube] Release 5.2.8 (#27731) ([ae56d1c](https://github.com/bitnami/charts/commit/ae56d1c5c5dcbd424faa1672adf34cf9fc7bce20)), closes [#27731](https://github.com/bitnami/charts/issues/27731)
+
+## <small>5.2.7 (2024-06-18)</small>
+
+* [bitnami/sonarqube] Release 5.2.7 (#27418) ([77b1002](https://github.com/bitnami/charts/commit/77b1002dc448baa91c543a6ea062e6aa0c0bee21)), closes [#27418](https://github.com/bitnami/charts/issues/27418)
+
+## <small>5.2.6 (2024-06-17)</small>
+
+* [bitnami/sonarqube] Release 5.2.6 (#27303) ([be65c2b](https://github.com/bitnami/charts/commit/be65c2bfb6f4120eb9109676a21572f9a4f1b4b1)), closes [#27303](https://github.com/bitnami/charts/issues/27303)
+
+## <small>5.2.5 (2024-06-14)</small>
+
+* [bitnami/sonarqube] Release 5.2.5 (#27174) ([707e7c8](https://github.com/bitnami/charts/commit/707e7c882fd5eb9af962e26d5e1a797e44f3e153)), closes [#27174](https://github.com/bitnami/charts/issues/27174)
 
 ## <small>5.2.4 (2024-06-13)</small>
 

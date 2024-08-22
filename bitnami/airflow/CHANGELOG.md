@@ -1,8 +1,81 @@
 # Changelog
 
-## 18.3.2 (2024-06-13)
+## 19.0.2 (2024-08-22)
 
-* [bitnami/airflow] Release 18.3.2 ([#27137](https://github.com/bitnami/charts/pull/27137))
+* [bitnami/airflow] Release 19.0.2 ([#28971](https://github.com/bitnami/charts/pull/28971))
+
+## <small>19.0.1 (2024-08-16)</small>
+
+* [bitnami/airflow] Release 19.0.1 (#28902) ([6375d6a](https://github.com/bitnami/charts/commit/6375d6aa360c7b699f25b32f4c882cceb6ee463b)), closes [#28902](https://github.com/bitnami/charts/issues/28902)
+
+## 19.0.0 (2024-08-13)
+
+* [bitnami/airflow] Update dependencies (#28849) ([48c36e4](https://github.com/bitnami/charts/commit/48c36e48e8dde68be650c62eb412c99a112a05b1)), closes [#28849](https://github.com/bitnami/charts/issues/28849)
+
+## <small>18.3.17 (2024-08-06)</small>
+
+* [bitnami/airflow] Release 18.3.17 (#28702) ([3e6f5f9](https://github.com/bitnami/charts/commit/3e6f5f969a926151eb0d8925678ff2e69ba0d5f1)), closes [#28702](https://github.com/bitnami/charts/issues/28702)
+
+## <small>18.3.16 (2024-08-01)</small>
+
+* [bitnami/airflow] Release 18.3.16 (#28626) ([0146c9a](https://github.com/bitnami/charts/commit/0146c9a41d01fba88da9c40de51351ebc56d5abd)), closes [#28626](https://github.com/bitnami/charts/issues/28626)
+
+## <small>18.3.15 (2024-08-01)</small>
+
+* [bitnami/airflow] Release 18.3.15 (#28616) ([0a13c85](https://github.com/bitnami/charts/commit/0a13c85a9d9319f40504c622e89caeb6c7fc6e9b)), closes [#28616](https://github.com/bitnami/charts/issues/28616)
+
+## <small>18.3.14 (2024-07-25)</small>
+
+* [bitnami/airflow] Release 18.3.14 (#28413) ([c87f85a](https://github.com/bitnami/charts/commit/c87f85a523135bbc2f4c5d52f031788555c42ccb)), closes [#28413](https://github.com/bitnami/charts/issues/28413)
+
+## <small>18.3.13 (2024-07-24)</small>
+
+* [bitnami/airflow] Release 18.3.13 (#28282) ([d44d7ed](https://github.com/bitnami/charts/commit/d44d7ed4c401f57e86f85f936b16a3577ab8f0d7)), closes [#28282](https://github.com/bitnami/charts/issues/28282)
+
+## <small>18.3.12 (2024-07-24)</small>
+
+* [bitnami/airflow] Release 18.3.12 (#28258) ([df45ab4](https://github.com/bitnami/charts/commit/df45ab4562f52b3baecd354a2b41b9d21f122585)), closes [#28258](https://github.com/bitnami/charts/issues/28258)
+
+## <small>18.3.11 (2024-07-23)</small>
+
+* [bitnami/airflow] Release 18.3.11 (#28213) ([4b9adf7](https://github.com/bitnami/charts/commit/4b9adf7e240a7d760acb12abd0d50f276bf19bfd)), closes [#28213](https://github.com/bitnami/charts/issues/28213)
+
+## <small>18.3.10 (2024-07-17)</small>
+
+* [bitnami/airflow] Release 18.3.10 (#28128) ([eaaa2b8](https://github.com/bitnami/charts/commit/eaaa2b8fcd75829ff395d91326b4855daef13115)), closes [#28128](https://github.com/bitnami/charts/issues/28128)
+
+## <small>18.3.9 (2024-07-16)</small>
+
+* [bitnami/airflow] Global StorageClass as default value (#27995) ([dee5654](https://github.com/bitnami/charts/commit/dee56546656435608b99cefe030c4e3e957aeff3)), closes [#27995](https://github.com/bitnami/charts/issues/27995)
+
+## <small>18.3.8 (2024-07-05)</small>
+
+* [bitnami/airflow] Release 18.3.8 (#27818) ([ff4acba](https://github.com/bitnami/charts/commit/ff4acba91570d0607f8ec5590826d122fed24eb7)), closes [#27818](https://github.com/bitnami/charts/issues/27818)
+
+## <small>18.3.7 (2024-07-03)</small>
+
+* [bitnami/airflow] Release 18.3.7 (#27742) ([fb7d639](https://github.com/bitnami/charts/commit/fb7d63923206bc2c7965ff0b80eeddec43c77d23)), closes [#27742](https://github.com/bitnami/charts/issues/27742)
+
+## <small>18.3.6 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/airflow] Release 18.3.6 (#27682) ([792722b](https://github.com/bitnami/charts/commit/792722b9717ae2e4f35b420207761b7aac67e2ac)), closes [#27682](https://github.com/bitnami/charts/issues/27682)
+
+## <small>18.3.5 (2024-06-25)</small>
+
+* [bitnami/airflow] liveness probe fail on worker pod (#27514) ([4e89d48](https://github.com/bitnami/charts/commit/4e89d48d2d281c6e07b94a4cd724fed0ee221947)), closes [#27514](https://github.com/bitnami/charts/issues/27514)
+
+## <small>18.3.4 (2024-06-18)</small>
+
+* [bitnami/airflow] Release 18.3.4 (#27326) ([f5b2497](https://github.com/bitnami/charts/commit/f5b24976e26efe2adb95b8a377cc21fc34d084c5)), closes [#27326](https://github.com/bitnami/charts/issues/27326)
+
+## <small>18.3.3 (2024-06-17)</small>
+
+* [bitnami/airflow] Release 18.3.3 (#27200) ([f77d4a4](https://github.com/bitnami/charts/commit/f77d4a426aecf13854ed33aa9ab8450091780658)), closes [#27200](https://github.com/bitnami/charts/issues/27200)
+
+## <small>18.3.2 (2024-06-13)</small>
+
+* [bitnami/airflow] Release 18.3.2 (#27137) ([8cf02f2](https://github.com/bitnami/charts/commit/8cf02f26f74c3450c4d7d6f79a1d101f1bc00f50)), closes [#27137](https://github.com/bitnami/charts/issues/27137)
 
 ## <small>18.3.1 (2024-06-10)</small>
 

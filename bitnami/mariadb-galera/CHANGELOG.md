@@ -1,8 +1,65 @@
 # Changelog
 
-## 13.2.3 (2024-06-06)
+## 14.0.9 (2024-08-14)
 
-* [bitnami/mariadb-galera] Release 13.2.3 ([#26975](https://github.com/bitnami/charts/pull/26975))
+* [bitnami/mariadb-galera] Release 14.0.9 ([#28876](https://github.com/bitnami/charts/pull/28876))
+
+## <small>14.0.8 (2024-08-05)</small>
+
+* [bitnami/mariadb-galera] Release 14.0.8 (#28669) ([5e2508d](https://github.com/bitnami/charts/commit/5e2508d3d48bbc21d20923656d7fd5cfafc1ebf6)), closes [#28669](https://github.com/bitnami/charts/issues/28669)
+
+## <small>14.0.7 (2024-08-05)</small>
+
+* [bitnami/mariadb-galera] Release 14.0.7 (#28663) ([0b9eb24](https://github.com/bitnami/charts/commit/0b9eb240ed3a7f4f6f9d01e8c6dc5c8406bb891d)), closes [#28663](https://github.com/bitnami/charts/issues/28663)
+
+## <small>14.0.6 (2024-08-01)</small>
+
+* [bitnami/mariadb-galera] fix: ginkgo tests (#28598) ([33d53d0](https://github.com/bitnami/charts/commit/33d53d062850d56e8819729da12aaacfd2ae9007)), closes [#28598](https://github.com/bitnami/charts/issues/28598)
+
+## <small>14.0.5 (2024-07-25)</small>
+
+* [bitnami/mariadb-galera] Release 14.0.5 (#28433) ([9bebacc](https://github.com/bitnami/charts/commit/9bebaccf79d025738864c7baa54394259005023b)), closes [#28433](https://github.com/bitnami/charts/issues/28433)
+
+## <small>14.0.4 (2024-07-24)</small>
+
+* [bitnami/mariadb-galera] Release 14.0.4 (#28308) ([3a207b0](https://github.com/bitnami/charts/commit/3a207b091fe94f7a6371fa264b9cdf3331dc007b)), closes [#28308](https://github.com/bitnami/charts/issues/28308)
+
+## <small>14.0.3 (2024-07-23)</small>
+
+* [bitnami/mariadb-galera] Release 14.0.3 (#28219) ([6822d00](https://github.com/bitnami/charts/commit/6822d00f657b040180ba32a3a967fe596f96b367)), closes [#28219](https://github.com/bitnami/charts/issues/28219)
+
+## <small>14.0.2 (2024-07-19)</small>
+
+* [bitnami/mariadb-galera] Global StorageClass as default value (#28051) ([75bf8d7](https://github.com/bitnami/charts/commit/75bf8d738a728b480d73521f19e0824f89cc4693)), closes [#28051](https://github.com/bitnami/charts/issues/28051)
+
+## <small>14.0.1 (2024-07-18)</small>
+
+* [bitnami/mariadb-galera] allow template in existingSecret and extraVolumes (#27915) ([6d7ad68](https://github.com/bitnami/charts/commit/6d7ad68f94c618e817778308f926fefd32a6f3eb)), closes [#27915](https://github.com/bitnami/charts/issues/27915)
+
+## 14.0.0 (2024-07-11)
+
+* [bitnami/mariadb-galera] Release 14.0.0 (#27908) ([faedc05](https://github.com/bitnami/charts/commit/faedc0596e9734afaed3f1715a12906538505b12)), closes [#27908](https://github.com/bitnami/charts/issues/27908)
+
+## <small>13.2.7 (2024-07-03)</small>
+
+* [bitnami/mariadb-galera] Release 13.2.7 (#27746) ([79e765c](https://github.com/bitnami/charts/commit/79e765cb931bdbe04c8d230d3ad54606f6cf30ca)), closes [#27746](https://github.com/bitnami/charts/issues/27746)
+
+## <small>13.2.6 (2024-07-02)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/mariadb-galera] Release 13.2.6 (#27636) ([e0d84d3](https://github.com/bitnami/charts/commit/e0d84d3c17b2049e432899630c947015a62ffe70)), closes [#27636](https://github.com/bitnami/charts/issues/27636)
+
+## <small>13.2.5 (2024-06-18)</small>
+
+* [bitnami/mariadb-galera] Release 13.2.5 (#27373) ([a7bc574](https://github.com/bitnami/charts/commit/a7bc574e7f272949d809193d7d828ea295bf09b5)), closes [#27373](https://github.com/bitnami/charts/issues/27373)
+
+## <small>13.2.4 (2024-06-17)</small>
+
+* [bitnami/mariadb-galera] Release 13.2.4 (#27242) ([3b93909](https://github.com/bitnami/charts/commit/3b93909d2076f761ff648d51036aecdde89c844c)), closes [#27242](https://github.com/bitnami/charts/issues/27242)
+
+## <small>13.2.3 (2024-06-06)</small>
+
+* [bitnami/mariadb-galera] Release 13.2.3 (#26975) ([684b554](https://github.com/bitnami/charts/commit/684b5549827f85ae8e2adc5b8e6984451f62aa34)), closes [#26975](https://github.com/bitnami/charts/issues/26975)
 
 ## <small>13.2.2 (2024-06-06)</small>
 

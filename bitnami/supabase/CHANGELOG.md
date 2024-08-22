@@ -1,8 +1,53 @@
 # Changelog
 
-## 5.2.3 (2024-06-06)
+## 5.3.4 (2024-08-14)
 
-* [bitnami/supabase] Release 5.2.3 ([#26933](https://github.com/bitnami/charts/pull/26933))
+* [bitnami/supabase] Release 5.3.4 ([#28882](https://github.com/bitnami/charts/pull/28882))
+
+## <small>5.3.3 (2024-07-25)</small>
+
+* [bitnami/supabase] Release 5.3.3 (#28502) ([68690c8](https://github.com/bitnami/charts/commit/68690c8802dac9b42aef7e5f4aaa030795214f36)), closes [#28502](https://github.com/bitnami/charts/issues/28502)
+
+## <small>5.3.2 (2024-07-24)</small>
+
+* [bitnami/supabase] Release 5.3.2 (#28384) ([630736a](https://github.com/bitnami/charts/commit/630736ab6e7df374d16f01cb716c93de1a9f92bf)), closes [#28384](https://github.com/bitnami/charts/issues/28384)
+
+## <small>5.3.1 (2024-07-16)</small>
+
+* [bitnami/supabase] Global StorageClass as default value (#28101) ([fa97110](https://github.com/bitnami/charts/commit/fa97110d0ce47f0079a03e45eef39b7c80c6ad38)), closes [#28101](https://github.com/bitnami/charts/issues/28101)
+
+## 5.3.0 (2024-07-09)
+
+* [bitnami/supabase] chore: :arrow_up: Update supabase-storage to 1.6.8 (#27857) ([d2b1182](https://github.com/bitnami/charts/commit/d2b11820e25a73ee35b7bbbe7dcb47cf12c2de9f)), closes [#27857](https://github.com/bitnami/charts/issues/27857)
+
+## <small>5.2.9 (2024-07-04)</small>
+
+* [bitnami/supabase] Do not render any resources for disabled components (#27580) ([5d703ba](https://github.com/bitnami/charts/commit/5d703bad49025ab95654a09ecacef304de7492bd)), closes [#27580](https://github.com/bitnami/charts/issues/27580) [#27540](https://github.com/bitnami/charts/issues/27540)
+
+## <small>5.2.8 (2024-07-04)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/supabase] Release 5.2.8 (#27728) ([33e773b](https://github.com/bitnami/charts/commit/33e773b50bc227d85afee414fba8728833a8b529)), closes [#27728](https://github.com/bitnami/charts/issues/27728)
+
+## <small>5.2.7 (2024-06-18)</small>
+
+* [bitnami/supabase] Release 5.2.7 (#27421) ([dbc5d0a](https://github.com/bitnami/charts/commit/dbc5d0a2c4aa4f2773e12e3b58fd3079694350a4)), closes [#27421](https://github.com/bitnami/charts/issues/27421)
+
+## <small>5.2.6 (2024-06-18)</small>
+
+* [bitnami/supabase] Release 5.2.6 (#27324) ([155575a](https://github.com/bitnami/charts/commit/155575a5b6d6ba38184d665896da969fc78dcc19)), closes [#27324](https://github.com/bitnami/charts/issues/27324)
+
+## <small>5.2.5 (2024-06-18)</small>
+
+* [bitnami/supabase] Release 5.2.5 (#27323) ([a5b1c1a](https://github.com/bitnami/charts/commit/a5b1c1ae4b1296347586489e8e1140402defd665)), closes [#27323](https://github.com/bitnami/charts/issues/27323)
+
+## <small>5.2.4 (2024-06-17)</small>
+
+* [bitnami/supabase] Release 5.2.4 (#27291) ([2939922](https://github.com/bitnami/charts/commit/2939922539464c1e6bc6161d59290c34688506c9)), closes [#27291](https://github.com/bitnami/charts/issues/27291)
+
+## <small>5.2.3 (2024-06-06)</small>
+
+* [bitnami/supabase] Release 5.2.3 (#26933) ([5423c1b](https://github.com/bitnami/charts/commit/5423c1b732d7f200a3019963fdefc10409b97bf5)), closes [#26933](https://github.com/bitnami/charts/issues/26933)
 
 ## <small>5.2.2 (2024-06-05)</small>
 

@@ -1,8 +1,45 @@
 # Changelog
 
-## 26.2.6 (2024-06-14)
+## 26.2.15 (2024-08-05)
 
-* [bitnami/odoo] Release 26.2.6 ([#27180](https://github.com/bitnami/charts/pull/27180))
+* [bitnami/odoo] Release 26.2.15 ([#28653](https://github.com/bitnami/charts/pull/28653))
+
+## <small>26.2.14 (2024-07-30)</small>
+
+* [bitnami/odoo] Release 26.2.14 (#28582) ([b19bef0](https://github.com/bitnami/charts/commit/b19bef00c45b2549f951edb9c0fb34fdc0fb635a)), closes [#28582](https://github.com/bitnami/charts/issues/28582)
+
+## <small>26.2.13 (2024-07-25)</small>
+
+* [bitnami/odoo] Release 26.2.13 (#28464) ([c7ddcbd](https://github.com/bitnami/charts/commit/c7ddcbd968233c8d812b09cea0ddf876a9816f4f)), closes [#28464](https://github.com/bitnami/charts/issues/28464)
+
+## <small>26.2.12 (2024-07-24)</small>
+
+* [bitnami/odoo] Release 26.2.12 (#28351) ([3f7dc35](https://github.com/bitnami/charts/commit/3f7dc35cb6d60e2a9e45e576c520d7f27e07fb5e)), closes [#28351](https://github.com/bitnami/charts/issues/28351)
+
+## <small>26.2.11 (2024-07-18)</small>
+
+* [bitnami/odoo] Global StorageClass as default value (#28074) ([4e782d5](https://github.com/bitnami/charts/commit/4e782d5a4cdedb9984a10175ff8144711d09c452)), closes [#28074](https://github.com/bitnami/charts/issues/28074)
+
+## <small>26.2.10 (2024-07-05)</small>
+
+* [bitnami/odoo] Release 26.2.10 (#27808) ([af8d109](https://github.com/bitnami/charts/commit/af8d10963794ed10c9237f678f5bd915b0eaaa8d)), closes [#27808](https://github.com/bitnami/charts/issues/27808)
+
+## <small>26.2.9 (2024-07-02)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/odoo] Release 26.2.9 (#27631) ([ac3351a](https://github.com/bitnami/charts/commit/ac3351a082d328c2ea62db64e242840adfa8c61a)), closes [#27631](https://github.com/bitnami/charts/issues/27631)
+
+## <small>26.2.8 (2024-06-18)</small>
+
+* [bitnami/odoo] Release 26.2.8 (#27393) ([c674b17](https://github.com/bitnami/charts/commit/c674b17119a3474feff01f740d42fab9e8aa9566)), closes [#27393](https://github.com/bitnami/charts/issues/27393)
+
+## <small>26.2.7 (2024-06-17)</small>
+
+* [bitnami/odoo] Release 26.2.7 (#27257) ([066357d](https://github.com/bitnami/charts/commit/066357dfb61595d90fcba9b202375d15fa37d35b)), closes [#27257](https://github.com/bitnami/charts/issues/27257)
+
+## <small>26.2.6 (2024-06-14)</small>
+
+* [bitnami/odoo] Release 26.2.6 (#27180) ([066b94d](https://github.com/bitnami/charts/commit/066b94dbf8f3b03a6fe6173c905fdc7fb30e8a53)), closes [#27180](https://github.com/bitnami/charts/issues/27180)
 
 ## <small>26.2.5 (2024-06-14)</small>
 

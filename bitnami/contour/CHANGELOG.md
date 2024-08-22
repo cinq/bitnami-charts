@@ -1,8 +1,49 @@
 # Changelog
 
-## 18.2.4 (2024-06-13)
+## 19.0.2 (2024-08-07)
 
-* [bitnami/contour] Release 18.2.4 ([#27152](https://github.com/bitnami/charts/pull/27152))
+* [bitnami/contour] Release 19.0.2 ([#28709](https://github.com/bitnami/charts/pull/28709))
+
+## <small>19.0.1 (2024-08-06)</small>
+
+* [bitnami/contour] Release 19.0.1 (#28683) ([801c69a](https://github.com/bitnami/charts/commit/801c69a1b644ecf2ba19307977a9bfc8eccd21cb)), closes [#28683](https://github.com/bitnami/charts/issues/28683)
+
+## 19.0.0 (2024-08-05)
+
+* [bitnami/contour] Release 19.0.0 (#28636) ([694171f](https://github.com/bitnami/charts/commit/694171f0690fc656a36cf7f48cd9a98a1838f149)), closes [#28636](https://github.com/bitnami/charts/issues/28636)
+
+## <small>18.2.11 (2024-08-01)</small>
+
+* [bitnami/contour] Release 18.2.11 (#28614) ([59b5029](https://github.com/bitnami/charts/commit/59b5029f9600c6cdba796466c7f0eede2f79d876)), closes [#28614](https://github.com/bitnami/charts/issues/28614)
+
+## <small>18.2.10 (2024-07-22)</small>
+
+* [bitnami/contour] Global StorageClass as default value (#28008) ([6c4a9bb](https://github.com/bitnami/charts/commit/6c4a9bb690baa192c5ff853950a9bc47ec5dfe68)), closes [#28008](https://github.com/bitnami/charts/issues/28008)
+
+## <small>18.2.9 (2024-07-04)</small>
+
+* [bitnami/contour] Release 18.2.9 (#27759) ([3fc8c8d](https://github.com/bitnami/charts/commit/3fc8c8dd7a257e47498e531a734faad5ebb9c52d)), closes [#27759](https://github.com/bitnami/charts/issues/27759)
+
+## <small>18.2.8 (2024-07-03)</small>
+
+* [bitnami/contour] Release 18.2.8 (#27649) ([b0114cf](https://github.com/bitnami/charts/commit/b0114cf34cb4669cb33c98a5cd36757c6e20c0e1)), closes [#27649](https://github.com/bitnami/charts/issues/27649)
+
+## <small>18.2.7 (2024-07-02)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/contour] allow customizing lifecycle hooks for envoy containers (#27506) ([08e8c58](https://github.com/bitnami/charts/commit/08e8c5859d21cd76feeba0474a545c35680b163e)), closes [#27506](https://github.com/bitnami/charts/issues/27506)
+
+## <small>18.2.6 (2024-06-18)</small>
+
+* [bitnami/contour] Release 18.2.6 (#27335) ([c28d442](https://github.com/bitnami/charts/commit/c28d442b0762f714a6279ff1bf204eac218105fc)), closes [#27335](https://github.com/bitnami/charts/issues/27335)
+
+## <small>18.2.5 (2024-06-17)</small>
+
+* [bitnami/contour] Release 18.2.5 (#27210) ([21d95c8](https://github.com/bitnami/charts/commit/21d95c8b684a29e9be25154c706599643a4797d5)), closes [#27210](https://github.com/bitnami/charts/issues/27210)
+
+## <small>18.2.4 (2024-06-13)</small>
+
+* [bitnami/contour] Release 18.2.4 (#27152) ([874e69a](https://github.com/bitnami/charts/commit/874e69aba60cb47333de699741e0a61005ff1c6c)), closes [#27152](https://github.com/bitnami/charts/issues/27152)
 
 ## <small>18.2.3 (2024-06-11)</small>
 

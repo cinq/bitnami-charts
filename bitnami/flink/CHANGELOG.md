@@ -1,8 +1,41 @@
 # Changelog
 
-## 1.3.4 (2024-06-14)
+## 1.3.12 (2024-08-01)
 
-* [bitnami/flink] Release 1.3.4 ([#27182](https://github.com/bitnami/charts/pull/27182))
+* [bitnami/flink] Release 1.3.12 ([#28625](https://github.com/bitnami/charts/pull/28625))
+
+## <small>1.3.11 (2024-07-25)</small>
+
+* [bitnami/flink] Release 1.3.11 (#28435) ([77ddf10](https://github.com/bitnami/charts/commit/77ddf10ac9a4c6b5ba9c20284158d257858557f6)), closes [#28435](https://github.com/bitnami/charts/issues/28435)
+
+## <small>1.3.10 (2024-07-24)</small>
+
+* [bitnami/flink] Release 1.3.10 (#28302) ([725a84c](https://github.com/bitnami/charts/commit/725a84c9e47c4531f337b41289aaba75f076794a)), closes [#28302](https://github.com/bitnami/charts/issues/28302)
+
+## <small>1.3.9 (2024-07-23)</small>
+
+* [bitnami/flink] Release 1.3.9 (#28242) ([49846ce](https://github.com/bitnami/charts/commit/49846ce3fb792db7a24ac5126481f67ec5d795ad)), closes [#28242](https://github.com/bitnami/charts/issues/28242)
+
+## <small>1.3.8 (2024-07-16)</small>
+
+* [bitnami/flink] Global StorageClass as default value (#28018) ([39fa01e](https://github.com/bitnami/charts/commit/39fa01e344c574edcea71c3f0d9f38f571fc7fdb)), closes [#28018](https://github.com/bitnami/charts/issues/28018)
+
+## <small>1.3.7 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/flink] Release 1.3.7 (#27683) ([48d2c43](https://github.com/bitnami/charts/commit/48d2c436a7367ac68abac6fd09114b49541371b3)), closes [#27683](https://github.com/bitnami/charts/issues/27683)
+
+## <small>1.3.6 (2024-06-18)</small>
+
+* [bitnami/flink] Release 1.3.6 (#27343) ([b6743d3](https://github.com/bitnami/charts/commit/b6743d3b1e17cdeb12e3a4f6ee25ef8c564318fa)), closes [#27343](https://github.com/bitnami/charts/issues/27343)
+
+## <small>1.3.5 (2024-06-17)</small>
+
+* [bitnami/flink] Release 1.3.5 (#27217) ([72a8672](https://github.com/bitnami/charts/commit/72a867263269a9cec5d61411b1c294d3a75a1c10)), closes [#27217](https://github.com/bitnami/charts/issues/27217)
+
+## <small>1.3.4 (2024-06-14)</small>
+
+* [bitnami/flink] Release 1.3.4 (#27182) ([19a8dae](https://github.com/bitnami/charts/commit/19a8daeacb51e6d60051d55e81ab20afc19b11e3)), closes [#27182](https://github.com/bitnami/charts/issues/27182)
 
 ## <small>1.3.3 (2024-06-06)</small>
 

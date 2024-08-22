@@ -1,8 +1,61 @@
 # Changelog
 
-## 1.3.4 (2024-06-12)
+## 1.3.17 (2024-08-16)
 
-* [bitnami/cert-manager] Release 1.3.4 ([#27117](https://github.com/bitnami/charts/pull/27117))
+* [bitnami/cert-manager] Release 1.3.17 ([#28904](https://github.com/bitnami/charts/pull/28904))
+
+## <small>1.3.16 (2024-08-06)</small>
+
+* [bitnami/cert-manager] Release 1.3.16 (#28707) ([7d63ab8](https://github.com/bitnami/charts/commit/7d63ab8c56385a6a453e7d40c5d5f904cac8320c)), closes [#28707](https://github.com/bitnami/charts/issues/28707)
+
+## <small>1.3.15 (2024-07-30)</small>
+
+* [bitnami/cert-manager] Release 1.3.15 (#28585) ([c5f3102](https://github.com/bitnami/charts/commit/c5f31028704a04ad2ca7bf4eda4c261ad1551ecd)), closes [#28585](https://github.com/bitnami/charts/issues/28585)
+
+## <small>1.3.14 (2024-07-25)</small>
+
+* [bitnami/cert-manager] Release 1.3.14 (#28400) ([99e0d15](https://github.com/bitnami/charts/commit/99e0d1504eb53b33abd705e4413e42d2c536fce8)), closes [#28400](https://github.com/bitnami/charts/issues/28400)
+
+## <small>1.3.13 (2024-07-24)</small>
+
+* [bitnami/cert-manager] Release 1.3.13 (#28268) ([e8677a9](https://github.com/bitnami/charts/commit/e8677a9fbaad0c36c55baad27d1d9a39755e75d3)), closes [#28268](https://github.com/bitnami/charts/issues/28268)
+
+## <small>1.3.12 (2024-07-23)</small>
+
+* [bitnami/cert-manager] Release 1.3.12 (#28235) ([7245235](https://github.com/bitnami/charts/commit/72452351d39e82c0629909f57b644e171d70e70b)), closes [#28235](https://github.com/bitnami/charts/issues/28235)
+
+## <small>1.3.11 (2024-07-18)</small>
+
+* [bitnami/cert-manager] Global StorageClass as default value (#28003) ([4b3f04c](https://github.com/bitnami/charts/commit/4b3f04c476bd8715b6dcaee3dec42ddfc0c7004c)), closes [#28003](https://github.com/bitnami/charts/issues/28003)
+
+## <small>1.3.10 (2024-07-12)</small>
+
+* [bitnami/cert-manager] Release 1.3.10 (#27945) ([5526472](https://github.com/bitnami/charts/commit/5526472dc15989e17f547ecaebd249816396242c)), closes [#27945](https://github.com/bitnami/charts/issues/27945)
+
+## <small>1.3.9 (2024-07-04)</small>
+
+* [bitnami/cert-manager] Release 1.3.9 (#27758) ([4f9dea1](https://github.com/bitnami/charts/commit/4f9dea13515ded8b785628ec1bf331b3212cff4e)), closes [#27758](https://github.com/bitnami/charts/issues/27758)
+
+## <small>1.3.8 (2024-07-02)</small>
+
+* [bitnami/cert-manager] Release 1.3.8 (#27642) ([280c6f3](https://github.com/bitnami/charts/commit/280c6f3f7ac6f010db2d5014077dc3c965f34352)), closes [#27642](https://github.com/bitnami/charts/issues/27642)
+
+## <small>1.3.7 (2024-06-27)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/cert-manager] Release 1.3.7 (#27553) ([0f19124](https://github.com/bitnami/charts/commit/0f19124575596984c95e54530155f728ac025c76)), closes [#27553](https://github.com/bitnami/charts/issues/27553)
+
+## <small>1.3.6 (2024-06-18)</small>
+
+* [bitnami/cert-manager] Release 1.3.6 (#27334) ([ba8ec01](https://github.com/bitnami/charts/commit/ba8ec01ca413d28001a5a4a956f5f9e95beff25c)), closes [#27334](https://github.com/bitnami/charts/issues/27334)
+
+## <small>1.3.5 (2024-06-17)</small>
+
+* [bitnami/cert-manager] Release 1.3.5 (#27206) ([b35df20](https://github.com/bitnami/charts/commit/b35df2025836e40e5ce2b9f45beb754e1be9ac92)), closes [#27206](https://github.com/bitnami/charts/issues/27206)
+
+## <small>1.3.4 (2024-06-12)</small>
+
+* [bitnami/cert-manager] Release 1.3.4 (#27117) ([be84a62](https://github.com/bitnami/charts/commit/be84a62af073c6ffcf23397e65111f47aa0c1b89)), closes [#27117](https://github.com/bitnami/charts/issues/27117)
 
 ## <small>1.3.3 (2024-06-07)</small>
 

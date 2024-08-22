@@ -1,8 +1,33 @@
 # Changelog
 
-## 4.2.3 (2024-06-06)
+## 4.2.9 (2024-07-25)
 
-* [bitnami/tensorflow-resnet] Release 4.2.3 ([#27019](https://github.com/bitnami/charts/pull/27019))
+* [bitnami/tensorflow-resnet] Release 4.2.9 ([#28494](https://github.com/bitnami/charts/pull/28494))
+
+## <small>4.2.8 (2024-07-24)</small>
+
+* [bitnami/tensorflow-resnet] Release 4.2.8 (#28392) ([2d2b1ce](https://github.com/bitnami/charts/commit/2d2b1ce4543287c09d8cfb8414022c476e295711)), closes [#28392](https://github.com/bitnami/charts/issues/28392)
+
+## <small>4.2.7 (2024-07-23)</small>
+
+* [bitnami/tensorflow-resnet] Release 4.2.7 (#28216) ([0487c42](https://github.com/bitnami/charts/commit/0487c4284b82514ae80c0ad26e41c43fdf779ba7)), closes [#28216](https://github.com/bitnami/charts/issues/28216)
+
+## <small>4.2.6 (2024-07-03)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/tensorflow-resnet] Release 4.2.6 (#27714) ([1d97768](https://github.com/bitnami/charts/commit/1d97768803359a386f0d0e1f1a3edf6702ae1645)), closes [#27714](https://github.com/bitnami/charts/issues/27714)
+
+## <small>4.2.5 (2024-06-18)</small>
+
+* [bitnami/tensorflow-resnet] Release 4.2.5 (#27423) ([6449cd9](https://github.com/bitnami/charts/commit/6449cd9d3ea02274be58b1f197255b01b0f9e742)), closes [#27423](https://github.com/bitnami/charts/issues/27423)
+
+## <small>4.2.4 (2024-06-17)</small>
+
+* [bitnami/tensorflow-resnet] Release 4.2.4 (#27292) ([edfb505](https://github.com/bitnami/charts/commit/edfb505d5a3efb8df42700a30c8e093d43c79ac2)), closes [#27292](https://github.com/bitnami/charts/issues/27292)
+
+## <small>4.2.3 (2024-06-06)</small>
+
+* [bitnami/tensorflow-resnet] Release 4.2.3 (#27019) ([2941d26](https://github.com/bitnami/charts/commit/2941d2694cb3f26721e39bd7b72b8589510cd02c)), closes [#27019](https://github.com/bitnami/charts/issues/27019)
 
 ## <small>4.2.2 (2024-06-06)</small>
 

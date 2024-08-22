@@ -1,8 +1,49 @@
 # Changelog
 
-## 11.3.2 (2024-06-14)
+## 11.3.12 (2024-08-07)
 
-* [bitnami/consul] Release 11.3.2 ([#27165](https://github.com/bitnami/charts/pull/27165))
+* [bitnami/consul] Release 11.3.12 ([#28763](https://github.com/bitnami/charts/pull/28763))
+
+## <small>11.3.11 (2024-07-25)</small>
+
+* [bitnami/consul] Release 11.3.11 (#28401) ([e11bc04](https://github.com/bitnami/charts/commit/e11bc04f38795cf195d323496241169ff7efaa58)), closes [#28401](https://github.com/bitnami/charts/issues/28401)
+
+## <small>11.3.10 (2024-07-24)</small>
+
+* [bitnami/consul] Release 11.3.10 (#28272) ([1a21ef5](https://github.com/bitnami/charts/commit/1a21ef5fefedaa40c9397d279c91c1eaa5afe7e4)), closes [#28272](https://github.com/bitnami/charts/issues/28272)
+
+## <small>11.3.9 (2024-07-23)</small>
+
+* [bitnami/consul] Release 11.3.9 (#28231) ([ccc6335](https://github.com/bitnami/charts/commit/ccc633529597ce610d64728a6d410762aac4bb94)), closes [#28231](https://github.com/bitnami/charts/issues/28231)
+
+## <small>11.3.8 (2024-07-16)</small>
+
+* [bitnami/consul] Global StorageClass as default value (#28007) ([70f6b86](https://github.com/bitnami/charts/commit/70f6b861f201ce413929259e4a39225533a55d2c)), closes [#28007](https://github.com/bitnami/charts/issues/28007)
+
+## <small>11.3.7 (2024-07-13)</small>
+
+* [bitnami/consul] Release 11.3.7 (#27919) ([84b416f](https://github.com/bitnami/charts/commit/84b416fa1044c6cdee410d2e4db2fb379bd30fa0)), closes [#27919](https://github.com/bitnami/charts/issues/27919)
+
+## <small>11.3.6 (2024-07-04)</small>
+
+* [bitnami/consul] Release 11.3.6 (#27776) ([a490d98](https://github.com/bitnami/charts/commit/a490d980bcd640b15b5eb6819859a6259befda5d)), closes [#27776](https://github.com/bitnami/charts/issues/27776)
+
+## <small>11.3.5 (2024-07-02)</small>
+
+* [bitnami/*] Update README changing TAC wording (#27530) ([52dfed6](https://github.com/bitnami/charts/commit/52dfed6bac44d791efabfaf06f15daddc4fefb0c)), closes [#27530](https://github.com/bitnami/charts/issues/27530)
+* [bitnami/consul] Release 11.3.5 (#27644) ([cd486ca](https://github.com/bitnami/charts/commit/cd486ca72b025e6afc74b384e2e1f3241e923146)), closes [#27644](https://github.com/bitnami/charts/issues/27644)
+
+## <small>11.3.4 (2024-06-18)</small>
+
+* [bitnami/consul] Release 11.3.4 (#27330) ([4086845](https://github.com/bitnami/charts/commit/4086845bf81f1d07020dfad875385f034290ce6d)), closes [#27330](https://github.com/bitnami/charts/issues/27330)
+
+## <small>11.3.3 (2024-06-17)</small>
+
+* [bitnami/consul] Release 11.3.3 (#27208) ([d82e61b](https://github.com/bitnami/charts/commit/d82e61b4f398e68e169aa8288633de06078264c2)), closes [#27208](https://github.com/bitnami/charts/issues/27208)
+
+## <small>11.3.2 (2024-06-14)</small>
+
+* [bitnami/consul] Release 11.3.2 (#27165) ([60c59bd](https://github.com/bitnami/charts/commit/60c59bd594c6980908caa1dbc17067f67ba5d195)), closes [#27165](https://github.com/bitnami/charts/issues/27165)
 
 ## <small>11.3.1 (2024-06-06)</small>
 
